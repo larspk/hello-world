@@ -2,3 +2,6 @@
 Testing repo
 
 Header
+
+Footer
+<h3>Footer</h3>
