@@ -9,7 +9,4 @@ Footer
 <h3>Footer</h3>
 
 
-ContextualMenu
-
-The end
-.
+Конец
